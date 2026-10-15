@@ -1,6 +1,6 @@
 export const config = { runtime: 'edge' };
 
-const MODEL = 'deepseek-chat';
+const MODEL = 'deepseek-v4-flash';
 
 const SYSTEM = `คุณคือผู้เชี่ยวชาญการเขียนสคริปต์ Roblox (Luau) ตอบเป็นภาษาไทยเสมอ
 ถ้าผู้ใช้ถามเรื่องอื่นก็ตอบได้ตามปกติ
